@@ -25,7 +25,11 @@ I'm a JAVA Developer working in ShenZhen, China.
 🙋‍♂️ 最近正在: 学习...思考...学做饭;
 
 一些别的:
+
 📖 瞎写点文章: https://www.douban.com/people/157723094/?_i=4169348niCk6B6
+
 ⚡️  游戏爱好者: 法环白金全成就.. 育碧脑残粉.. 盗贼之海竞技场小猎狗.. 魂类游戏爱好者.. grounded蜘蛛🕷️爱好者..
+
 📚 最近在读: 《任天堂社长如是说》
+
 🤟 计划: 学习系统设计.. 刷leetcode..
